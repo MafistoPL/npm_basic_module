@@ -1,0 +1,19 @@
+{
+  "name": "npm_basic_module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MafistoPL/npm_basic_module.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MafistoPL/npm_basic_module/issues"
+  },
+  "homepage": "https://github.com/MafistoPL/npm_basic_module#readme"
+}

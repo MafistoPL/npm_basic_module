@@ -1,0 +1,1 @@
+console.log("npm basic module");
