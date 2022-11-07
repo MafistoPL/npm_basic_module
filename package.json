@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/MafistoPL/npm_basic_module.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "author": "me",
   "license": "ISC",
   "bugs": {
