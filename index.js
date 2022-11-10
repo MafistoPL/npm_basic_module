@@ -1,9 +1,5 @@
-const func1 = () => {
-  console.log("npm basic module function one");
+const nestedModuleFunc = () => {
+  console.log("nestedModuleFunc");
 }
 
- const func2 = () => {
-  console.log("npm basic module function two");
-}
-
-module.exports = {func1, func2};
+module.exports = {nestedModuleFunc};
